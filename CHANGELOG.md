@@ -2,6 +2,10 @@
 
 ## master / unreleased
 
+
+## 1.0.1 / 2021-11-26
+* [BUGFIX] alertmanager deployment: fix indentation
+
 ## 1.0.0 / 2021-11-25
 ### This Release includes BREAKING CHANGES
 
